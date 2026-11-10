@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Askhat Yeleubay
 
-> 🎯 Aspiring Product Manager | 💻 Frontend Developer | 🎓 Information Systems Student
+> 🎯  Product Manager | 💻 Frontend Developer | 🎓 Information Systems Student
 
 ---
 
